@@ -1,0 +1,13 @@
+#bio-seperator {
+	color: #ddd;
+}
+#bio-img {
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding: 10px 10px 10px 0;
+}
+.bio-text {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777;
+}
