@@ -16,9 +16,6 @@ input[type=text], select, textarea {
 	margin: 6px 0 16px 0; 
     font-size: 14px;
 }
-.contact-form {
-	margin-top: 30px;
-}
 label {
 	font-size: 18px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -34,7 +31,6 @@ input[type=text], select, textarea {
 	margin: 6px 0 16px 0; 
     font-size: 14px;
 }
-
 #message {
 	width: 100%;
 	height: 250px;
